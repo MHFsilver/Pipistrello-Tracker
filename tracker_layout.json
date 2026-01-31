@@ -1,0 +1,80 @@
+﻿{
+  "map_enabled": true,
+  "auto_pin_capturing_locations": false,
+  "auto_unpin_on_clear": true,
+  "allow_resize": true,
+  "layout_swap_left_right": false,
+  "disabled_image_filter": "grayscale, dim",
+  "layouts": {
+    "shared_item_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "v_alignment": "center",
+              "h_alignment": "center",
+              "item_margin": "0,0,3,12",
+			         "item_size": 36,
+              "rows": [
+				        [ "lifeup", "candy", "sprout", "ghost", "attackup", "demon", "airup", "anvil", "spring", "rocket", "starry" ],
+		        		[ "thorny", "stun", "whip", "opportunist", "magnet", "coin", "rose", "greenThumb", "focus", "angled", "diagonal" ],
+			        	[ "wing", "mist", "reflective", "moon", "eye", "pitcher", "tightknot", "treasure", "berseker", "skipping", "clone" ],
+			        	[ "flame", "hellhound", "elephant", "golden", "turret", "train", "ruler", "unleashed", "telekinesis", "fishing", "teleportation" ],
+                ["emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade",],
+                ["emptyupgrade", "upgrade2", "upgrade6", "upgrade10", "upgrade14", "upgrade17", "upgrade21", "upgrade25"],
+                ["upgrade1", "upgrade3", "upgrade7", "upgrade11", "upgrade15", "upgrade18", "upgrade22", "emptyupgrade"],
+                ["emptyupgrade", "upgrade4", "upgrade8", "upgrade12", "upgrade16", "upgrade19", "upgrade23", "upgrade26"],
+                ["emptyupgrade", "upgrade5", "upgrade9", "upgrade13", "emptyupgrade", "upgrade20", "upgrade24", "emptyupgrade"]
+              ]
+            },
+            {
+              "type": "array",
+              "orientation": "horizontal",
+              "content": [
+
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+		                  "v_alignment": "top",
+                      "item_margin": "8,20",
+                      "item_size": 48,
+                      "badge_font_size": 11,
+                      "rows": [
+			                  [ "petalcon", "bpcon", "diamond"],
+                        ["bronzeticket","policeid","arenasilver","megabattery1"],
+                        [ "silverticket","staffid","arenagold","megabattery2" ],
+                        ["goldticket","poolpass","emptyupgrade","megabattery3" ],
+                        ["fadaticket","emptyupgrade","emptyupgrade","megabattery4" ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tracker_default": {
+      "type": "container",
+      "width": 700,
+      //"height": 250,
+      "background": "#212121",
+      "content": {
+        "type": "layout",
+        "dropshadow": true,
+        "margin": 10,
+        "key": "shared_item_grid"
+      }
+    }
+  }
+}

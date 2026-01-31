@@ -1,0 +1,615 @@
+[
+  // Airplane Badge
+  {
+    "name": "AirAttackUp",
+    "type": "toggle",
+    "img": "images/sprites/airAttackUp.png",
+    "codes": "airup"
+  },
+  // Fist Badge
+  {
+    "name": "attackup",
+    "type": "toggle",
+    "img": "images/sprites/attackup.png",
+    "codes": "attackup"
+  },
+  // Demon Badge
+  {
+    "name": "demon",
+    "type": "toggle",
+    "img": "images/sprites/attackupmaxlifecap.png",
+    "codes": "demon"
+  },
+  // Life Badge
+  {
+    "name": "lifeup",
+    "type": "toggle",
+    "img": "images/sprites/maxlifeup.png",
+    "codes": "lifeup"
+  },
+  // Candy Badge
+  {
+    "name": "candy",
+    "type": "toggle",
+     "img": "images/sprites/respawnlifeup.png",
+     "codes": "candy"
+  },
+// Sprout Badge
+  {
+    "name": "sprout",
+    "type": "toggle",
+    "img": "images/sprites/moneyliferegen.png",
+    "codes": "sprout"
+  },
+  // Ghost Badge
+  {
+    "name": "ghost",
+    "type": "toggle",
+    "img": "images/sprites/hurtInvulnerabilityUp.png",
+    "codes": "ghost"
+  },
+    // Petal Containers
+  {
+    "name": "Petals",
+    "type": "consumable",
+	"img": "images/sprites/petalContainer.png",
+	"codes": "petalcon",
+	"max_quantity": 48
+  },
+    // BP Containers
+  {
+    "name": "Badge Points",
+    "type": "consumable",
+    "img": "images/sprites/bpContainer.png",
+    "codes": "bpcon",
+	"max_quantity": 30
+  },
+  // Anvil Badge
+  {
+    "name": "anvil",
+    "type": "toggle",
+    "img": "images/sprites/stringedYoyoSpeedDown.png",
+    "codes": "anvil"
+  },
+  // Spring Badge
+  {
+    "name": "spring",
+    "type": "toggle",
+    "img": "images/sprites/stringedYoyoNoPierce.png",
+    "codes": "spring"
+  },
+  // Rocket Badge
+  {
+    "name": "rocket",
+    "type": "toggle",
+    "img": "images/sprites/stringedYoyoKnockback.png",
+    "codes": "rocket"
+  },
+  // Starry Badge
+  {
+    "name": "starry",
+    "type": "toggle",
+    "img": "images/sprites/stringedYoyoStunEveryNth.png",
+    "codes": "starry"
+  },
+  // Thorny Badge
+  {
+    "name": "thorny",
+    "type": "toggle",
+    "img": "images/sprites/stringDamage.png",
+    "codes": "thorny"
+  },
+    // Stun Badge
+  {
+    "name": "stun",
+    "type": "toggle",
+    "img": "images/sprites/stringStunDurationUp.png",
+    "codes": "stun"
+  },
+    // Whip Badge
+  {
+    "name": "whip",
+    "type": "toggle",
+    "img": "images/sprites/stringKnockbackUp.png",
+    "codes": "whip"
+  },
+    // Opportunist Badge
+  {
+    "name": "opportunist",
+    "type": "toggle",
+    "img": "images/sprites/stunnedEnemyAttackUp.png",
+    "codes": "opportunist"
+  },
+  // Magnet Badge
+  {
+    "name": "magnet",
+    "type": "toggle",
+    "img": "images/sprites/moneymagnet.png",
+    "codes": "magnet"
+  },
+    // Coin Badge
+  {
+    "name": "coin",
+    "type": "toggle",
+    "img": "images/sprites/moneySpoilsUp.png",
+    "codes": "coin"
+  },
+    // Rose Badge
+  {
+    "name": "rose",
+    "type": "toggle",
+    "img": "images/sprites/roseSpoilsUp.png",
+    "codes": "rose"
+  },
+    // Green-Thumb Badge
+  {
+    "name": "greenThumb",
+    "type": "toggle",
+    "img": "images/sprites/rosePersistenceUp.png",
+    "codes": "greenThumb"
+  },
+    // Focus Badge
+  {
+    "name": "focus",
+    "type": "toggle",
+    "img": "images/sprites/chargeSpeedUp.png",
+    "codes": "focus"
+  },
+    // Angled Badge
+  {
+    "name": "angled",
+    "type": "toggle",
+    "img": "images/sprites/stringedYoyoBounceAttackUp.png",
+    "codes": "angled"
+  },
+    // Diagonal Badge
+  {
+    "name": "diagonal",
+    "type": "toggle",
+    "img": "images/sprites/projectileYoyoBounceAttackUp.png",
+    "codes": "diagonal"
+  },
+    // Wing Badge
+  {
+    "name": "wing",
+    "type": "toggle",
+    "img": "images/sprites/fallDamageResist.png",
+    "codes": "wing"
+  },
+    // Mist Badge
+  {
+    "name": "mist",
+    "type": "toggle",
+    "img": "images/sprites/hurtDodgeEveryNth.png",
+    "codes": "mist"
+  },
+    // Reflective Badge
+  {
+    "name": "reflective",
+    "type": "toggle",
+    "img": "images/sprites/projectileReflect.png",
+    "codes": "reflective"
+  },
+    // Moon Badge
+  {
+    "name": "moon",
+    "type": "toggle",
+    "img": "images/sprites/projectileYoyoWallBounce.png",
+    "codes": "moon"
+  },
+    // Eye Badge
+  {
+    "name": "eye",
+    "type": "toggle",
+    "img": "images/sprites/seeEnemyLife.png",
+    "codes": "eye"
+  },
+    // Pitcher Badge
+  {
+    "name": "pitcher",
+    "type": "toggle",
+    "img": "images/sprites/thrownObjectAttackUp.png",
+    "codes": "pitcher"
+  },
+    // Tight-Knot Badge
+  {
+    "name": "tightKnot",
+    "type": "toggle",
+    "img": "images/sprites/disarmResist.png",
+    "codes": "tightknot"
+  },
+    // Treasure Badge
+  {
+    "name": "treasure",
+    "type": "toggle",
+    "img": "images/sprites/moneyDeathSafetyUp.png",
+    "codes": "treasure"
+  },
+    // Berserker Badge
+  {
+    "name": "berserker",
+    "type": "toggle",
+    "img": "images/sprites/lowLifeAttackUp.png",
+    "codes": "berseker"
+  },
+    // Skipping Stone Badge
+  {
+    "name": "skipping",
+    "type": "toggle",
+    "img": "images/sprites/waterJump.png",
+    "codes": "skipping"
+  },
+    // Clone Badge
+  {
+    "name": "clone",
+    "type": "toggle",
+    "img": "images/sprites/projectileYoyoHitboxWidthUp.png",
+    "codes": "clone"
+  },
+    // Flame Badge
+  {
+    "name": "flame",
+    "type": "toggle",
+    "img": "images/sprites/projectileYoyoFireTrail.png",
+    "codes": "flame"
+  },
+    // Hellhound Badge
+  {
+    "name": "hellhound",
+    "type": "toggle",
+    "img": "images/sprites/walkTheDogFireTrail.png",
+    "codes": "hellhound"
+  },
+    // Elephant Badge
+  {
+    "name": "elephant",
+    "type": "toggle",
+    "img": "images/sprites/walkTheDogPierce.png",
+    "codes": "elephant"
+  },
+    // Golden Badge
+  {
+    "name": "golden",
+    "type": "toggle",
+    "img": "images/sprites/walletAttackUp.png",
+    "codes": "golden"
+  },
+    // Turret Badge
+  {
+    "name": "turret",
+    "type": "toggle",
+    "img": "images/sprites/groundYoyoAutoAttack.png",
+    "codes": "turret"
+  },
+    // Cheater Train Badge
+  {
+    "name": "train",
+    "type": "toggle",
+    "img": "images/sprites/movementSpeedUp.png",
+    "codes": "train"
+  },
+    // Cheater Ruler Badge
+  {
+    "name": "ruler",
+    "type": "toggle",
+    "img": "images/sprites/stringLengthUp.png",
+    "codes": "ruler"
+  },
+    // Cheater Unleashed Badge
+  {
+    "name": "unleashed",
+    "type": "toggle",
+    "img": "images/sprites/walkTheDogControl.png",
+    "codes": "unleashed"
+  },
+    // Cheater Telekinesis Badge
+  {
+    "name": "telekinesis",
+    "type": "toggle",
+    "img": "images/sprites/projectileYoyoControl.png",
+    "codes": "telekinesis"
+  },
+    // Cheater Fishing Badge
+  {
+    "name": "fishing",
+    "type": "toggle",
+    "img": "images/sprites/groundYoyoRecoveryOnDemand.png",
+    "codes": "fishing"
+  },
+    // Cheater Teleportation Badge
+  {
+    "name": "teleportation",
+    "type": "toggle",
+    "img": "images/sprites/teleport.png",
+    "codes": "teleportation"
+  },
+      // Diamond
+  {
+    "name": "diamond",
+    "type": "consumable",
+    "img": "images/sprites/diamond.png",
+    "codes": "diamond",
+    "max_quantity": 13
+  },
+      // Bronze Prize Ticket
+  {
+    "name": "bronzeticket",
+    "type": "toggle",
+    "img": "images/sprites/ticketBronze.png",
+    "codes": "bronzeticket"
+  },
+        // Silver Prize Ticket
+  {
+    "name": "silverticket",
+    "type": "toggle",
+    "img": "images/sprites/ticketSilver.png",
+    "codes": "silverticket"
+  },
+        // Gold Prize Ticket
+  {
+    "name": "goldticket",
+    "type": "toggle",
+    "img": "images/sprites/ticketGold.png",
+    "codes": "goldticket"
+  },
+        // FadaFest Ticket
+  {
+    "name": "fadaticket",
+    "type": "toggle",
+    "img": "images/sprites/conventionTicket.png",
+    "codes": "fadaticket"
+  },
+        // Police ID
+  {
+    "name": "policeid",
+    "type": "toggle",
+    "img": "images/sprites/policedep_id.png",
+    "codes": "policeid"
+  },
+        // Staff ID
+  {
+    "name": "staffid",
+    "type": "toggle",
+    "img": "images/sprites/construction_staff_id.png",
+    "codes": "staffid"
+  },
+        // Pool Pass
+  {
+    "name": "poolpass",
+    "type": "toggle",
+    "img": "images/sprites/poolMembershipCard.png",
+    "codes": "poolpass"
+  },
+        // Silver Arena Letter
+  {
+    "name": "arenasilver",
+    "type": "toggle",
+    "img": "images/sprites/trevososSilver.png",
+    "codes": "arenasilver"
+  },
+        // Gold Arena Letter
+  {
+    "name": "arenagold",
+    "type": "toggle",
+    "img": "images/sprites/trevososGold.png",
+    "codes": "arenagold"
+  },
+          // Don Mega Battery
+  {
+    "name": "megabattery1",
+    "type": "toggle",
+    "img": "images/sprites/megaBattery1.png",
+    "codes": "megabattery1"
+  },
+            // Slime Mega Battery
+  {
+    "name": "megabattery2",
+    "type": "toggle",
+    "img": "images/sprites/megaBattery2.png",
+    "codes": "megabattery2"
+  },
+            // Toxy Mega Battery
+  {
+    "name": "megabattery3",
+    "type": "toggle",
+    "img": "images/sprites/megaBattery3.png",
+    "codes": "megabattery3"
+  },
+            // Carrara Mega Battery
+  {
+    "name": "megabattery4",
+    "type": "toggle",
+    "img": "images/sprites/megaBattery4.png",
+    "codes": "megabattery4"
+  },
+              // Upgrade 1
+  {
+    "name": "upgrade1",
+    "type": "toggle",
+    "img": "images/sprites/upgrade1.png",
+    "codes": "upgrade1"
+  },
+                // Upgrade 2
+  {
+    "name": "upgrade2",
+    "type": "toggle",
+    "img": "images/sprites/upgrade2.png",
+    "codes": "upgrade2"
+  },
+                // Upgrade 3
+  {
+    "name": "upgrade3",
+    "type": "toggle",
+    "img": "images/sprites/upgrade3.png",
+    "codes": "upgrade3"
+  },
+                // Upgrade 4
+  {
+    "name": "upgrade4",
+    "type": "toggle",
+    "img": "images/sprites/upgrade4.png",
+    "codes": "upgrade4"
+  },
+                // Upgrade 5
+  {
+    "name": "upgrade5",
+    "type": "toggle",
+    "img": "images/sprites/upgrade5.png",
+    "codes": "upgrade5"
+  },
+                // Upgrade 6
+  {
+    "name": "upgrade6",
+    "type": "toggle",
+    "img": "images/sprites/upgrade6.png",
+    "codes": "upgrade6"
+  },
+                // Upgrade 7
+  {
+    "name": "upgrade7",
+    "type": "toggle",
+    "img": "images/sprites/upgrade7.png",
+    "codes": "upgrade7"
+  },
+                // Upgrade 8
+  {
+    "name": "upgrade8",
+    "type": "toggle",
+    "img": "images/sprites/upgrade8.png",
+    "codes": "upgrade8"
+  },
+                // Upgrade 9
+  {
+    "name": "upgrade9",
+    "type": "toggle",
+    "img": "images/sprites/upgrade9.png",
+    "codes": "upgrade9"
+  },
+                // Upgrade 10
+  {
+    "name": "upgrade10",
+    "type": "toggle",
+    "img": "images/sprites/upgrade10.png",
+    "codes": "upgrade10"
+  },
+                // Upgrade 11
+  {
+    "name": "upgrade11",
+    "type": "toggle",
+    "img": "images/sprites/upgrade11.png",
+    "codes": "upgrade11"
+  },
+                // Upgrade 12
+  {
+    "name": "upgrade12",
+    "type": "toggle",
+    "img": "images/sprites/upgrade12.png",
+    "codes": "upgrade12"
+  },
+                // Upgrade 13
+  {
+    "name": "upgrade13",
+    "type": "toggle",
+    "img": "images/sprites/upgrade13.png",
+    "codes": "upgrade13"
+  },
+                // Upgrade 14
+  {
+    "name": "upgrade14",
+    "type": "toggle",
+    "img": "images/sprites/upgrade14.png",
+    "codes": "upgrade14"
+  },
+                // Upgrade 15
+  {
+    "name": "upgrade15",
+    "type": "toggle",
+    "img": "images/sprites/upgrade15.png",
+    "codes": "upgrade15"
+  },
+                // Upgrade 16
+  {
+    "name": "upgrade16",
+    "type": "toggle",
+    "img": "images/sprites/upgrade16.png",
+    "codes": "upgrade16"
+  },
+                // Upgrade 17
+  {
+    "name": "upgrade17",
+    "type": "toggle",
+    "img": "images/sprites/upgrade17.png",
+    "codes": "upgrade17"
+  },
+                // Upgrade 18
+  {
+    "name": "upgrade18",
+    "type": "toggle",
+    "img": "images/sprites/upgrade18.png",
+    "codes": "upgrade18"
+  },
+                // Upgrade 19
+  {
+    "name": "upgrade19",
+    "type": "toggle",
+    "img": "images/sprites/upgrade19.png",
+    "codes": "upgrade19"
+  },
+                // Upgrade 20
+  {
+    "name": "upgrade20",
+    "type": "toggle",
+    "img": "images/sprites/upgrade20.png",
+    "codes": "upgrade20"
+  },
+                // Upgrade 21
+  {
+    "name": "upgrade21",
+    "type": "toggle",
+    "img": "images/sprites/upgrade21.png",
+    "codes": "upgrade21"
+  },
+                // Upgrade 22
+  {
+    "name": "upgrade22",
+    "type": "toggle",
+    "img": "images/sprites/upgrade22.png",
+    "codes": "upgrade22"
+  },
+                // Upgrade 23
+  {
+    "name": "upgrade23",
+    "type": "toggle",
+    "img": "images/sprites/upgrade23.png",
+    "codes": "upgrade23"
+  },
+                // Upgrade 24
+  {
+    "name": "upgrade24",
+    "type": "toggle",
+    "img": "images/sprites/upgrade24.png",
+    "codes": "upgrade24"
+  },
+                // Upgrade 25
+  {
+    "name": "upgrade25",
+    "type": "toggle",
+    "img": "images/sprites/upgrade25.png",
+    "codes": "upgrade25"
+  },
+                // Upgrade 26
+  {
+    "name": "upgrade26",
+    "type": "toggle",
+    "img": "images/sprites/upgrade26.png",
+    "codes": "upgrade26"
+  },
+                  // Empty Upgrade - Surely there's a better way to do this
+  {
+    "name": "emptyupgrade",
+    "type": "static",
+    "img": "images/sprites/empty.png",
+    "codes": "emptyupgrade"
+  }
+
+]

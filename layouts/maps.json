@@ -1,0 +1,118 @@
+{
+  "layout_maps": {
+    "type": "container",
+    "content": [
+      {
+        "type": "tabbed",
+
+        "tabs": [
+          {
+            "title": "Manor",
+            "icon": "images/maps/manor.png",
+            "content": {
+              "type": "layout",
+              "key": "manor"
+            }
+          },
+          {
+            "title": "Tunnel",
+            "icon": "images/maps/tunnel.png",
+            "content": {
+              "type": "layout",
+              "key": "tunnel"
+            }
+          },
+          {
+            "title": "City",
+            "icon": "images/maps/city.png",
+            "content": {
+              "type": "layout",
+              "key": "city"
+            }
+          },
+          {
+            "title": "Mall",
+            "icon": "images/maps/mall.png",
+            "content": {
+              "type": "layout",
+              "key": "mall"
+            }
+          },
+          {
+            "title": "Excavation",
+            "icon": "images/maps/excavation.png",
+            "content": {
+              "type": "layout",
+              "key": "excavation"
+            }
+          },
+          {
+            "title": "Underground",
+            "icon": "images/maps/underground.png",
+            "content": {
+              "type": "layout",
+              "key": "underground"
+            }
+          },
+          {
+            "title": "Police",
+            "icon": "images/maps/police.png",
+            "content": {
+              "type": "layout",
+              "key": "police"
+            }
+          },
+          {
+            "title": "Skyscraper",
+            "icon": "images/maps/skyscraper.png",
+            "content": {
+              "type": "layout",
+              "key": "skyscraper"
+            }
+          },
+          {
+            "title": "Subway",
+            "icon": "images/maps/subway.png",
+            "content": {
+              "type": "layout",
+              "key": "subway"
+            }
+          },
+          {
+            "title": "Cinema",
+            "icon": "images/maps/cinema.png",
+            "content": {
+              "type": "layout",
+              "key": "cinema"
+            }
+          },
+          {
+            "title": "Museum",
+            "icon": "images/maps/museum.png",
+            "content": {
+              "type": "layout",
+              "key": "museum"
+            }
+          },
+          {
+            "title": "Factory",
+            "icon": "images/maps/factory.png",
+            "content": {
+              "type": "layout",
+              "key": "factory"
+            }
+          },
+          {
+            "title": "Escape",
+            "icon": "images/maps/escape.png",
+            "content": {
+              "type": "layout",
+              "key": "escape"
+              
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

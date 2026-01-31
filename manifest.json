@@ -1,0 +1,14 @@
+{
+	"name": "Pipistrello and the Cursed Yoyo Tracker",
+	"game_name": "Pipistrello and the Cursed Yoyo",
+	"platform": "pc",
+	"package_version": "1.0.0",
+	"package_uid": "pipistrello_tracker",
+	"layout_engine_version": "1.0",
+	"author": "MHFsilver",
+	"variants": {
+    "standard": {
+      "display_name": "Standard Item Tracker"
+    }
+  }
+}
