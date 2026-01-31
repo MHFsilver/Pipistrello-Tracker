@@ -7,24 +7,14 @@ To monitor progress of the randomizer, join the Arcipelago Discord channel: http
 
 ## Currently Working
 All 44 badges  
-
 All 26 Pepita upgrades  
-
 Tracking of Petal and BP Containers  
-
 Tracking of Diamonds  
-
 All 4 "Tickets"  
-
 All 3 "Passes"  
-
 Both "Letters"  
-
 All 4 Mega Batteries  
-
 
 ## Planned Additions
 Tracking of Special and Charged Attacks  
-
 Map tracker  
-
