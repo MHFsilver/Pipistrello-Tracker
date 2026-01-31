@@ -6,15 +6,15 @@ Currently only includes an item tracker with all main collectables and upgrades.
 To monitor progress of the randomizer, join the Arcipelago Discord channel: https://discord.gg/8Z65BR2 
 
 ## Currently Working
-All 44 badges
-All 26 Pepita upgrades
-Tracking of Petal and BP Containers
-Tracking of Diamonds
-All 4 "Tickets"
-All 3 "Passes"
-Both "Letters"
-All 4 Mega Batteries
+All 44 badges  
+All 26 Pepita upgrades  
+Tracking of Petal and BP Containers  
+Tracking of Diamonds  
+All 4 "Tickets"  
+All 3 "Passes"  
+Both "Letters"  
+All 4 Mega Batteries  
 
 ## Planned Additions
-Tracking of Special and Charged Attacks
-Map tracker
+Tracking of Special and Charged Attacks  
+Map tracker  
