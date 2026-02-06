@@ -610,6 +610,62 @@
     "type": "static",
     "img": "images/sprites/empty.png",
     "codes": "emptyupgrade"
+  },
+                  // Flurry Attack
+  {
+    "name": "flurryattack",
+    "type": "toggle",
+    "img": "images/sprites/flurryattack.jpg",
+    "codes": "flurry"
+  },
+                  // Around the World
+  {
+    "name": "aroundworld",
+    "type": "toggle",
+    "img": "images/sprites/aroundworld.jpg",
+    "codes": "aroundworld"
+  },
+                  // Cat's Cradle
+  {
+    "name": "catcradle",
+    "type": "toggle",
+    "img": "images/sprites/catcradle.jpg",
+    "codes": "catcradle"
+  },
+                  // Coin-Flip
+  {
+    "name": "coinflip",
+    "type": "toggle",
+    "img": "images/sprites/coinflip.jpg",
+    "codes": "coinflip"
+  },
+                  // Offstring Throw
+  {
+    "name": "offstring",
+    "type": "toggle",
+    "img": "images/sprites/offstring.jpg",
+    "codes": "offstring"
+  },
+                  // Parry
+  {
+    "name": "parry",
+    "type": "toggle",
+    "img": "images/sprites/parry.jpg",
+    "codes": "parry"
+  },
+                  // Sleeper
+  {
+    "name": "sleeper",
+    "type": "toggle",
+    "img": "images/sprites/sleeperattack.jpg",
+    "codes": "sleeper"
+  },
+                  // Walk the Dog
+  {
+    "name": "walkDog",
+    "type": "toggle",
+    "img": "images/sprites/walkthedogAbility.png",
+    "codes": "walkdog"
   }
 
 ]

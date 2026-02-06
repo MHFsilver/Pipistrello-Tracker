@@ -25,11 +25,13 @@
 		        		[ "thorny", "stun", "whip", "opportunist", "magnet", "coin", "rose", "greenThumb", "focus", "angled", "diagonal" ],
 			        	[ "wing", "mist", "reflective", "moon", "eye", "pitcher", "tightknot", "treasure", "berseker", "skipping", "clone" ],
 			        	[ "flame", "hellhound", "elephant", "golden", "turret", "train", "ruler", "unleashed", "telekinesis", "fishing", "teleportation" ],
-                ["emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade",],
+                ["emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade", "emptyupgrade"],
                 ["emptyupgrade", "upgrade2", "upgrade6", "upgrade10", "upgrade14", "upgrade17", "upgrade21", "upgrade25"],
                 ["upgrade1", "upgrade3", "upgrade7", "upgrade11", "upgrade15", "upgrade18", "upgrade22", "emptyupgrade"],
                 ["emptyupgrade", "upgrade4", "upgrade8", "upgrade12", "upgrade16", "upgrade19", "upgrade23", "upgrade26"],
-                ["emptyupgrade", "upgrade5", "upgrade9", "upgrade13", "emptyupgrade", "upgrade20", "upgrade24", "emptyupgrade"]
+                ["emptyupgrade", "upgrade5", "upgrade9", "upgrade13", "emptyupgrade", "upgrade20", "upgrade24", "emptyupgrade"],
+                ["offstring", "walkdog", "parry", "flurry"],
+                ["aroundworld", "catcradle", "coinflip", "sleeper"]
               ]
             },
             {
@@ -67,7 +69,7 @@
     "tracker_default": {
       "type": "container",
       "width": 700,
-      //"height": 250,
+      //"height": 350,
       "background": "#212121",
       "content": {
         "type": "layout",
