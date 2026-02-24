@@ -1,56 +1,56 @@
 [
   // Airplane Badge
   {
-    "name": "AirAttackUp",
+    "name": "Airplane Badge",
     "type": "toggle",
     "img": "images/sprites/airAttackUp.png",
     "codes": "airup"
   },
   // Fist Badge
   {
-    "name": "attackup",
+    "name": "Fist Badge",
     "type": "toggle",
     "img": "images/sprites/attackup.png",
     "codes": "attackup"
   },
   // Demon Badge
   {
-    "name": "demon",
+    "name": "Demon Badge",
     "type": "toggle",
     "img": "images/sprites/attackupmaxlifecap.png",
     "codes": "demon"
   },
   // Life Badge
   {
-    "name": "lifeup",
+    "name": "Life Badge",
     "type": "toggle",
     "img": "images/sprites/maxlifeup.png",
     "codes": "lifeup"
   },
   // Candy Badge
   {
-    "name": "candy",
+    "name": "Candy Badge",
     "type": "toggle",
      "img": "images/sprites/respawnlifeup.png",
      "codes": "candy"
   },
 // Sprout Badge
   {
-    "name": "sprout",
+    "name": "Sprout Badge",
     "type": "toggle",
     "img": "images/sprites/moneyliferegen.png",
     "codes": "sprout"
   },
   // Ghost Badge
   {
-    "name": "ghost",
+    "name": "Ghost Badge",
     "type": "toggle",
     "img": "images/sprites/hurtInvulnerabilityUp.png",
     "codes": "ghost"
   },
     // Petal Containers
   {
-    "name": "Petals",
+    "name": "Petal Containers",
     "type": "consumable",
 	"img": "images/sprites/petalContainer.png",
 	"codes": "petalcon",
@@ -58,7 +58,7 @@
   },
     // BP Containers
   {
-    "name": "Badge Points",
+    "name": "BP Containers",
     "type": "consumable",
     "img": "images/sprites/bpContainer.png",
     "codes": "bpcon",
@@ -66,266 +66,266 @@
   },
   // Anvil Badge
   {
-    "name": "anvil",
+    "name": "Anvil Badge",
     "type": "toggle",
     "img": "images/sprites/stringedYoyoSpeedDown.png",
     "codes": "anvil"
   },
   // Spring Badge
   {
-    "name": "spring",
+    "name": "Spring Badge",
     "type": "toggle",
     "img": "images/sprites/stringedYoyoNoPierce.png",
     "codes": "spring"
   },
   // Rocket Badge
   {
-    "name": "rocket",
+    "name": "Rocket Badge",
     "type": "toggle",
     "img": "images/sprites/stringedYoyoKnockback.png",
     "codes": "rocket"
   },
   // Starry Badge
   {
-    "name": "starry",
+    "name": "Starry Badge",
     "type": "toggle",
     "img": "images/sprites/stringedYoyoStunEveryNth.png",
     "codes": "starry"
   },
   // Thorny Badge
   {
-    "name": "thorny",
+    "name": "Thorny Badge",
     "type": "toggle",
     "img": "images/sprites/stringDamage.png",
     "codes": "thorny"
   },
     // Stun Badge
   {
-    "name": "stun",
+    "name": "Stun Badge",
     "type": "toggle",
     "img": "images/sprites/stringStunDurationUp.png",
     "codes": "stun"
   },
     // Whip Badge
   {
-    "name": "whip",
+    "name": "Whip Badge",
     "type": "toggle",
     "img": "images/sprites/stringKnockbackUp.png",
     "codes": "whip"
   },
     // Opportunist Badge
   {
-    "name": "opportunist",
+    "name": "Opportunist Badge",
     "type": "toggle",
     "img": "images/sprites/stunnedEnemyAttackUp.png",
     "codes": "opportunist"
   },
   // Magnet Badge
   {
-    "name": "magnet",
+    "name": "Magnet Badge",
     "type": "toggle",
     "img": "images/sprites/moneymagnet.png",
     "codes": "magnet"
   },
     // Coin Badge
   {
-    "name": "coin",
+    "name": "Coin Badge",
     "type": "toggle",
     "img": "images/sprites/moneySpoilsUp.png",
     "codes": "coin"
   },
     // Rose Badge
   {
-    "name": "rose",
+    "name": "Rose Badge",
     "type": "toggle",
     "img": "images/sprites/roseSpoilsUp.png",
     "codes": "rose"
   },
     // Green-Thumb Badge
   {
-    "name": "greenThumb",
+    "name": "Green-Thumb Badge",
     "type": "toggle",
     "img": "images/sprites/rosePersistenceUp.png",
     "codes": "greenThumb"
   },
     // Focus Badge
   {
-    "name": "focus",
+    "name": "Focus Badge",
     "type": "toggle",
     "img": "images/sprites/chargeSpeedUp.png",
     "codes": "focus"
   },
     // Angled Badge
   {
-    "name": "angled",
+    "name": "Angled Badge",
     "type": "toggle",
     "img": "images/sprites/stringedYoyoBounceAttackUp.png",
     "codes": "angled"
   },
     // Diagonal Badge
   {
-    "name": "diagonal",
+    "name": "Diagonal Badge",
     "type": "toggle",
     "img": "images/sprites/projectileYoyoBounceAttackUp.png",
     "codes": "diagonal"
   },
     // Wing Badge
   {
-    "name": "wing",
+    "name": "Wing Badge",
     "type": "toggle",
     "img": "images/sprites/fallDamageResist.png",
     "codes": "wing"
   },
     // Mist Badge
   {
-    "name": "mist",
+    "name": "Mist Badge",
     "type": "toggle",
     "img": "images/sprites/hurtDodgeEveryNth.png",
     "codes": "mist"
   },
     // Reflective Badge
   {
-    "name": "reflective",
+    "name": "Reflective Badge",
     "type": "toggle",
     "img": "images/sprites/projectileReflect.png",
     "codes": "reflective"
   },
     // Moon Badge
   {
-    "name": "moon",
+    "name": "Moon Badge",
     "type": "toggle",
     "img": "images/sprites/projectileYoyoWallBounce.png",
     "codes": "moon"
   },
     // Eye Badge
   {
-    "name": "eye",
+    "name": "Eye Badge",
     "type": "toggle",
     "img": "images/sprites/seeEnemyLife.png",
     "codes": "eye"
   },
     // Pitcher Badge
   {
-    "name": "pitcher",
+    "name": "Pitcher Badge",
     "type": "toggle",
     "img": "images/sprites/thrownObjectAttackUp.png",
     "codes": "pitcher"
   },
     // Tight-Knot Badge
   {
-    "name": "tightKnot",
+    "name": "Tight-Knot Badge",
     "type": "toggle",
     "img": "images/sprites/disarmResist.png",
     "codes": "tightknot"
   },
     // Treasure Badge
   {
-    "name": "treasure",
+    "name": "Treasure Badge",
     "type": "toggle",
     "img": "images/sprites/moneyDeathSafetyUp.png",
     "codes": "treasure"
   },
     // Berserker Badge
   {
-    "name": "berserker",
+    "name": "Berserker Badge",
     "type": "toggle",
     "img": "images/sprites/lowLifeAttackUp.png",
     "codes": "berseker"
   },
     // Skipping Stone Badge
   {
-    "name": "skipping",
+    "name": "Skipping Stone Badge",
     "type": "toggle",
     "img": "images/sprites/waterJump.png",
     "codes": "skipping"
   },
     // Clone Badge
   {
-    "name": "clone",
+    "name": "Clone Badge",
     "type": "toggle",
     "img": "images/sprites/projectileYoyoHitboxWidthUp.png",
     "codes": "clone"
   },
     // Flame Badge
   {
-    "name": "flame",
+    "name": "Flame Badge",
     "type": "toggle",
     "img": "images/sprites/projectileYoyoFireTrail.png",
     "codes": "flame"
   },
     // Hellhound Badge
   {
-    "name": "hellhound",
+    "name": "Hellhound Badge",
     "type": "toggle",
     "img": "images/sprites/walkTheDogFireTrail.png",
     "codes": "hellhound"
   },
     // Elephant Badge
   {
-    "name": "elephant",
+    "name": "Elephant Badge",
     "type": "toggle",
     "img": "images/sprites/walkTheDogPierce.png",
     "codes": "elephant"
   },
     // Golden Badge
   {
-    "name": "golden",
+    "name": "Golden Badge",
     "type": "toggle",
     "img": "images/sprites/walletAttackUp.png",
     "codes": "golden"
   },
     // Turret Badge
   {
-    "name": "turret",
+    "name": "Turret Badge",
     "type": "toggle",
     "img": "images/sprites/groundYoyoAutoAttack.png",
     "codes": "turret"
   },
     // Cheater Train Badge
   {
-    "name": "train",
+    "name": "Cheater's Train Badge",
     "type": "toggle",
     "img": "images/sprites/movementSpeedUp.png",
     "codes": "train"
   },
     // Cheater Ruler Badge
   {
-    "name": "ruler",
+    "name": "Cheater's Ruler Badge",
     "type": "toggle",
     "img": "images/sprites/stringLengthUp.png",
     "codes": "ruler"
   },
     // Cheater Unleashed Badge
   {
-    "name": "unleashed",
+    "name": "Cheater's Unleashed Badge",
     "type": "toggle",
     "img": "images/sprites/walkTheDogControl.png",
     "codes": "unleashed"
   },
     // Cheater Telekinesis Badge
   {
-    "name": "telekinesis",
+    "name": "Cheater's Telekinesis Badge",
     "type": "toggle",
     "img": "images/sprites/projectileYoyoControl.png",
     "codes": "telekinesis"
   },
     // Cheater Fishing Badge
   {
-    "name": "fishing",
+    "name": "Cheater's Fishing Badge",
     "type": "toggle",
     "img": "images/sprites/groundYoyoRecoveryOnDemand.png",
     "codes": "fishing"
   },
     // Cheater Teleportation Badge
   {
-    "name": "teleportation",
+    "name": "Cheater's Teleportation Badge",
     "type": "toggle",
     "img": "images/sprites/teleport.png",
     "codes": "teleportation"
   },
       // Diamond
   {
-    "name": "diamond",
+    "name": "Diamond",
     "type": "consumable",
     "img": "images/sprites/diamond.png",
     "codes": "diamond",
@@ -333,91 +333,91 @@
   },
       // Bronze Prize Ticket
   {
-    "name": "bronzeticket",
+    "name": "Bronze Prize Ticket",
     "type": "toggle",
     "img": "images/sprites/ticketBronze.png",
     "codes": "bronzeticket"
   },
         // Silver Prize Ticket
   {
-    "name": "silverticket",
+    "name": "Silver Prize Ticket",
     "type": "toggle",
     "img": "images/sprites/ticketSilver.png",
     "codes": "silverticket"
   },
         // Gold Prize Ticket
   {
-    "name": "goldticket",
+    "name": "Gold Prize Ticket",
     "type": "toggle",
     "img": "images/sprites/ticketGold.png",
     "codes": "goldticket"
   },
         // FadaFest Ticket
   {
-    "name": "fadaticket",
+    "name": "FadaFest Ticket",
     "type": "toggle",
     "img": "images/sprites/conventionTicket.png",
     "codes": "fadaticket"
   },
         // Police ID
   {
-    "name": "policeid",
+    "name": "Police ID",
     "type": "toggle",
     "img": "images/sprites/policedep_id.png",
     "codes": "policeid"
   },
         // Staff ID
   {
-    "name": "staffid",
+    "name": "Staff ID",
     "type": "toggle",
     "img": "images/sprites/construction_staff_id.png",
     "codes": "staffid"
   },
         // Pool Pass
   {
-    "name": "poolpass",
+    "name": "Pool Pass",
     "type": "toggle",
     "img": "images/sprites/poolMembershipCard.png",
     "codes": "poolpass"
   },
         // Silver Arena Letter
   {
-    "name": "arenasilver",
+    "name": "Silver Arena Letter",
     "type": "toggle",
     "img": "images/sprites/trevososSilver.png",
     "codes": "arenasilver"
   },
         // Gold Arena Letter
   {
-    "name": "arenagold",
+    "name": "Gold Arena Letter",
     "type": "toggle",
     "img": "images/sprites/trevososGold.png",
     "codes": "arenagold"
   },
           // Don Mega Battery
   {
-    "name": "megabattery1",
+    "name": "Don's Mega Battery",
     "type": "toggle",
     "img": "images/sprites/megaBattery1.png",
     "codes": "megabattery1"
   },
             // Slime Mega Battery
   {
-    "name": "megabattery2",
+    "name": "Slime's Mega Battery",
     "type": "toggle",
     "img": "images/sprites/megaBattery2.png",
     "codes": "megabattery2"
   },
             // Toxy Mega Battery
   {
-    "name": "megabattery3",
+    "name": "Toxy's Mega Battery",
     "type": "toggle",
     "img": "images/sprites/megaBattery3.png",
     "codes": "megabattery3"
   },
             // Carrara Mega Battery
   {
-    "name": "megabattery4",
+    "name": "Carrara's Mega Battery",
     "type": "toggle",
     "img": "images/sprites/megaBattery4.png",
     "codes": "megabattery4"
@@ -606,63 +606,63 @@
   },
                   // Empty Upgrade - Surely there's a better way to do this
   {
-    "name": "emptyupgrade",
+    "name": "",
     "type": "static",
     "img": "images/sprites/empty.png",
     "codes": "emptyupgrade"
   },
                   // Flurry Attack
   {
-    "name": "flurryattack",
+    "name": "Flurry Attack",
     "type": "toggle",
     "img": "images/sprites/flurryattack.jpg",
     "codes": "flurry"
   },
                   // Around the World
   {
-    "name": "aroundworld",
+    "name": "Around the World",
     "type": "toggle",
     "img": "images/sprites/aroundworld.jpg",
     "codes": "aroundworld"
   },
                   // Cat's Cradle
   {
-    "name": "catcradle",
+    "name": "Cat's Cradle",
     "type": "toggle",
     "img": "images/sprites/catcradle.jpg",
     "codes": "catcradle"
   },
                   // Coin-Flip
   {
-    "name": "coinflip",
+    "name": "Coin-Flip",
     "type": "toggle",
     "img": "images/sprites/coinflip.jpg",
     "codes": "coinflip"
   },
                   // Offstring Throw
   {
-    "name": "offstring",
+    "name": "Offstring Throw",
     "type": "toggle",
     "img": "images/sprites/offstring.jpg",
     "codes": "offstring"
   },
                   // Parry
   {
-    "name": "parry",
+    "name": "Parry",
     "type": "toggle",
     "img": "images/sprites/parry.jpg",
     "codes": "parry"
   },
                   // Sleeper
   {
-    "name": "sleeper",
+    "name": "Sleeper",
     "type": "toggle",
     "img": "images/sprites/sleeperattack.jpg",
     "codes": "sleeper"
   },
                   // Walk the Dog
   {
-    "name": "walkDog",
+    "name": "Walk the Dog",
     "type": "toggle",
     "img": "images/sprites/walkthedogAbility.png",
     "codes": "walkdog"
