@@ -1,5 +1,5 @@
 # Pipistrello and the Cursed Yoyo Tracker
-An EmoTracker pack for Pipistrello and the Cursed Yoyo
+An [EmoTracker](https://emotracker.net/) /  [Poptracker](https://poptracker.github.io/) pack for Pipistrello and the Cursed Yoyo
 
 Currently only includes an item tracker with all main collectables and upgrades. This is still a WIP and currently there is no complete randomizer for Pipistrello, but one is being worked on.
 
